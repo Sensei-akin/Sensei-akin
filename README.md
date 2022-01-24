@@ -1,4 +1,4 @@
-[![Akinwande's GitHub stats](https://github-readme-stats.vercel.app/api?username=sensei-akin&show_icons=true&theme=radical)
+![Akinwande's GitHub stats](https://github-readme-stats.vercel.app/api?username=sensei-akin&show_icons=true&theme=radical)
 
 
 - 👋 Hi, I’m Akinwande
