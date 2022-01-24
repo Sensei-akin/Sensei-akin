@@ -1,9 +1,9 @@
-[![Akinwande's GitHub stats](https://github-readme-stats.vercel.app/api?username=sensei-akin)](https://github.com/anuraghazra/github-readme-stats/api?username=sensei-akin&show_icons=true&theme=radical)
+[![Akinwande's GitHub stats](https://github-readme-stats.vercel.app/api?username=sensei-akin&show_icons=true&theme=radical)
 
 
-- 👋 Hi, I’m @Sensei-akin
-- 👀 I’m interested in ...
-- 🌱 I’m currently 
+- 👋 Hi, I’m Akinwande
+- 👀 I’m interested in solving big data problems 
+- 🌱 I’m currently working at Terragon Group where I help the company with valuable insights using the customer data, so they can make better informed decisions
 - 💞️ I’m looking to collaborate on Machine learning Operations Framework/Packages
 - 📫 How to reach me ...
 
