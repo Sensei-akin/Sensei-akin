@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Akinwande
 - 👀 I’m interested in solving big data problems 
-- 🌱 I’m currently working at Terragon Group where I help the company with valuable insights using the customer data, so they can make better informed decisions
+- 🌱 I’m currently working at Terragon Group where I help the company with valuable insights using the customer data to make data driven decisions
 - 💞️ I’m looking to collaborate on Machine learning Operations Framework/Packages
 - 📫 How to reach me ...
 
